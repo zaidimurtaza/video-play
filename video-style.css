@@ -1,0 +1,50 @@
+
+.button-open .play-action{ 
+    font-size: 1.6rem;
+    background-color: bisque;
+    border: none;
+}
+.button-close .play-action{ 
+    font-size: 0.8rem;
+    background-color: bisque;
+    border: none;
+}
+.play-action{
+    border-radius: 0.6em;
+
+}
+.play{
+    margin-right: 0.3em;
+    transition: 0.7s;
+}
+.size{
+    margin-right: 0.3em;
+    transition: 0.7s;
+}
+.head{
+    text-align: center;
+    background-color:rgb(54, 124, 99); 
+    border-radius: 32px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+.video{
+    transition: 0.5s;
+
+}
+.size:hover{
+    cursor: pointer;
+    box-shadow: 0 0 20px black;}
+.play:hover{
+    cursor: pointer;
+    box-shadow: 0 0 20px black;
+}
+body{
+    background-color: rgb(72, 165, 132);
+}
+.div{
+    text-align: center;
+    transition: 0.7s;
+}
